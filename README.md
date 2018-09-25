@@ -23,10 +23,14 @@ Curated list of links and resources shared in our Meetup sessions or Slack chat
 - [Real World Haskell](http://book.realworldhaskell.org/)
 - [Learn You A Haskell For A Great Good](http://learnyouahaskell.com/)
 
+### Learning resources and guides
+- [(Path to) Learn Haskell](https://github.com/bitemyapp/learnhaskell)
+- [A Nonlinear Guide to Haskell](https://locallycompact.gitlab.io/ANLGTH/)
+
+
 ### Language docs
 - [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
 - [The Const Applicative and Monoids](https://blog.jle.im/entry/const-applicative-and-monoids.html)
 - [Haskell Reading Group](https://hackwithlambda.github.io/reading-group/)
-- [(Path to) Learn Haskell](https://github.com/bitemyapp/learnhaskell)
 - [Using Functions for Easier Programming](https://cacm.acm.org/magazines/2018/5/227202-using-functions-for-easier-programming/fulltext)
 - [ADTs (Algebraic Data Types) in Haskell](http://muattiyah.com/posts/haskell-adts/) - A brief introduction to data types.
